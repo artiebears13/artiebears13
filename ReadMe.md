@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Artie Bears</h1>
 <h3 align="center">Frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=artiebears13&label=Profile%20views&color=0e75b6&style=flat" alt="artiebears13" /> </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/artiebears13/count.svg" />
+</p>
+
+[//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=artiebears13&label=Profile%20views&color=0e75b6&style=flat" alt="artiebears13" /> </p>)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artiebears13" alt="artiebears13" /></a> </p>
 

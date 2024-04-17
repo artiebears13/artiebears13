@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artie Bears</h1>
 <h3 align="center">Frontend developer</h3>
 
-<p align="center"> 
+<br>
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/artiebears13/count.svg" />
 </p>
@@ -14,8 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/artiebears13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/artiebears13" height="30" width="40" /></a>
-</p>
-<p align="left">
 <a href="https://t.me/artiebears13" target="blank"><img align="center" src="https://th.bing.com/th/id/R.6783684046fcb00113538c5861771ba8?rik=UqyFiSfMByhO4w&pid=ImgRaw&r=0" alt="https://t.me/artiebears13" height="40" width="40" /></a>
 </p>
 
@@ -43,7 +41,6 @@
 
 - 📫 How to reach me **artiebears@mail.ru**
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artie Bears</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Frontend developer, 3 times hackathon winner 🏆</h3>
 
 <br>
 <p align="center">
@@ -32,12 +32,12 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artiebears13&" alt="artiebears13" /></p>
 
-## Hackathons
+# Hackathons
 - 🥈 [Semantic Classification](https://github.com/artiebears13/Semantic_Classification) - 2nd place at the "Digital Breakthrough" hackathon
 - 🥈[Citizens Appeals](https://github.com/artiebears13/Citizens_Appeals) - 2nd place at the international "Digital Breakthrough" hackathon
 - 🥇 [Documents Parser](https://github.com/artiebears13/Documents_Parser) - 1st place at the international "Digital Breakthrough" hackathon
 
-## Educational Projects
+# Educational Projects
 - [Wells and Fracture Prediction](https://github.com/artiebears13/Wells_and_fracture_prediction) - finding optimal well locations
 
 - [Navier-Stokes](https://github.com/artiebears13/Navier-Stokes) - solving the Navier-Stokes equation in the cavern problem

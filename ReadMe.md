@@ -33,6 +33,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artiebears13&" alt="artiebears13" /></p>
 
 # Hackathons
+- 🥈 [Animals Detection](https://github.com/artiebears13/animals-hack) - 2nd place at the "Digital Breakthrough" hackathon
 - 🥈 [Semantic Classification](https://github.com/artiebears13/Semantic_Classification) - 2nd place at the "Digital Breakthrough" hackathon
 - 🥈[Citizens Appeals](https://github.com/artiebears13/Citizens_Appeals) - 2nd place at the international "Digital Breakthrough" hackathon
 - 🥇 [Documents Parser](https://github.com/artiebears13/Documents_Parser) - 1st place at the international "Digital Breakthrough" hackathon

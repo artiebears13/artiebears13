@@ -39,6 +39,8 @@
 - 🥇 [Documents Parser](https://github.com/artiebears13/Documents_Parser) - 1st place at the international "Digital Breakthrough" hackathon
 
 # Educational Projects
+- [Web Translator](https://github.com/artiebears13/translator) - Education project [Deploy](https://artiebears13.github.io/translator/)
+- [React Messenger](https://github.com/artiebears13/react-messenger) - Education project [Deploy](https://artiebears13.github.io/react-messenger/)
 - [Wells and Fracture Prediction](https://github.com/artiebears13/Wells_and_fracture_prediction) - finding optimal well locations
 
 - [Navier-Stokes](https://github.com/artiebears13/Navier-Stokes) - solving the Navier-Stokes equation in the cavern problem

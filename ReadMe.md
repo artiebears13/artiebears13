@@ -43,7 +43,7 @@
 
 - [Diffusion Nonstationary MFD Explicit](https://github.com/artiebears13/diffusion_nonstat_MFD_explicit) - solving the nonstationary convection-diffusion equation on supercomputers
 
-- 📫 How to reach me **artiebears@mail.ru**c
+- 📫 How to reach me **artiebears458@gmail.com**
 
 
 
